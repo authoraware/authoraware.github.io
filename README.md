@@ -2,6 +2,8 @@
 
 In 1993 a LISTSERV mailinglist was created for Authorware Developer Aces.  
 The first IRL meeting was at the Macromedia User Conference in **september 1994**  
+Only a few digital photographs were taken with the [$749 Apple Quicktake 100](https://en.wikipedia.org/wiki/Apple_QuickTake)
+
 Sharing knowledge with subscribers from all over the world,  
 AWARE developers soon dominated the E-learning businesses.  
 
