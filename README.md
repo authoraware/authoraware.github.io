@@ -1,4 +1,4 @@
-# The AWARE team
+# ![](https://avatars2.githubusercontent.com/u/48124769?s=200&v=4) The AWARE team
 
 In 1993 a LISTSERV mailinglist was created for Authorware Developer Aces.  
 The first IRL meeting was at the Macromedia User Conference in **september 1994**  
