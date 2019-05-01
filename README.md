@@ -10,7 +10,7 @@ Today, still close friends, they survive as developers and consultants of fortun
 If you have a problem, if no one else can help, and if you can email them,  
 maybe you can hire the A-Team.
 
-
+|   |   |   |   |
 |---|---|---|---|
 | ![](https://i.imgur.com/ribjitb.jpg) | ![](https://i.imgur.com/tNY1eqB.jpg) | ![](https://i.imgur.com/aTLm0BH.jpg) | ![](https://i.imgur.com/i2U6Kik.jpg) |
 | Michael | ? , Danny | Paul | Wade , Jamil |
