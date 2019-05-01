@@ -3,7 +3,7 @@
 In 1993 a LISTSERV mailinglist was created for Authorware Developer Aces.  
 The first IRL meeting was at the Macromedia User Conference in **september 1994**  
 Sharing knowledge with subscribers from all over the world,  
-subscriber campanies soon dominated the E-learning businesses.  
+AWARE developers soon dominated the E-learning businesses.  
 
 Today, still close friends, they survive as developers and consultants of fortune.  
 
