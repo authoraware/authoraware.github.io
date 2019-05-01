@@ -18,3 +18,7 @@ maybe you can hire the A-Team.
 | Michael | ? , Danny | Paul | Wade , Jamil |
 | ![](https://i.imgur.com/Ejfhe4R.jpg) | ![](https://i.imgur.com/Pp4dTT4.jpg) | ![](https://i.imgur.com/NRyE43J.jpg) | ![](https://i.imgur.com/J4OSpdB.jpg) |
 | Wade , Bennie , ? | Ronnie | Dietrich | Joe! |
+
+<hr>
+
+[Captivate resources](captivate.md)
